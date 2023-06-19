@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sujal_portfolio/static/css/main.ed167a3a.css",
+    "main.js": "/sujal_portfolio/static/js/main.e0c3efe0.js",
+    "static/media/sujalMain2.jpg": "/sujal_portfolio/static/media/sujalMain2.12c2d4c159deff990122.jpg",
+    "static/media/vector.jpg": "/sujal_portfolio/static/media/vector.6f8e5efda8f6f0c16c51.jpg",
+    "static/media/python.png": "/sujal_portfolio/static/media/python.d92e7fea6ee84ad0a37a.png",
+    "index.html": "/sujal_portfolio/index.html",
+    "main.ed167a3a.css.map": "/sujal_portfolio/static/css/main.ed167a3a.css.map",
+    "main.e0c3efe0.js.map": "/sujal_portfolio/static/js/main.e0c3efe0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed167a3a.css",
+    "static/js/main.e0c3efe0.js"
+  ]
+}
